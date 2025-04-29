@@ -18,7 +18,7 @@ jobs:
 
 
      - name: Build Docker image
-       run: docker build -t umashankar27/Test .
+       run: docker build -t umashankar27/test .
 
 
      - name: Login to Docker Hub
