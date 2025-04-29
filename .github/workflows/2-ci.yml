@@ -29,4 +29,4 @@ jobs:
 
 
      - name: Push image to Docker Hub
-       run: docker push yourdockerhubid/todoapp
+       run: docker push umashankar27/test
